@@ -16,7 +16,7 @@
 
 - 📫 How to reach me aartisushmesh@gmail.com
 
-- 📄 Know about my experiences -> [My Resume](#)
+- 📄 Know about my experiences -> [My Resume](https://docs.google.com/document/d/10yt_sEMvm8qbPV7kw84kQT71b490dnPHnHAakhtfUJ4/edit?usp=sharing)
 
 - ⚡ Fun fact I think Chess is the most interesting Game.
 
