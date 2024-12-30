@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [GlamGait : Footwear Shopping Site](#)
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Full Stack and CI/CD Pipelines.
 
-- 👯 I’m looking to collaborate on MERN Projects
+- 👯 I’m looking to collaborate on Web based Projects
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-gamma-lake-56.vercel.app/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me aartisushmesh@gmail.com
 
-- 📄 Know about my experiences -> [My Resume](https://docs.google.com/document/d/10yt_sEMvm8qbPV7kw84kQT71b490dnPHnHAakhtfUJ4/edit?usp=sharing)
+- 📄 Know about my experiences -> [My Resume](https://docs.google.com/document/d/1X0EaHqa39V7Yxn1MDVWO9JgTZfwOWE5F_9scBpLUOCY/edit?usp=sharing)
 
 - ⚡ Fun fact I think Chess is the most interesting Game.
 
