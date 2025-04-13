@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on Web based Projects
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-gamma-lake-56.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aarti-sushmesh.vercel.app/)
 
 - 💬 Ask me about Javascript , ReactJS , Node.js , C++ , DSA
 
