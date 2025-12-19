@@ -4,9 +4,11 @@
 
 <img  align="right"  alt=""  src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"  style="width:300px">
 
-- 🔭 I’m currently working on [Decentralized File Sharing System](#)
+- 🔭 I’m currently working as a SDE 1 at [Ravencast Labs](https://ravencast.io/).
 
-- 🌱 I’m currently learning Full Stack and CI/CD Pipelines.
+- 🌱 Currently learning and working on Python, AI, and LLM model training.
+
+- 🌱 Previously worked on the project : [Decentralized File Sharing System](#)
 
 - 👯 I’m looking to collaborate on Web based Projects
 
@@ -18,7 +20,7 @@
 
 - 📄 Know about my experiences -> [My Resume](https://docs.google.com/document/d/1X0EaHqa39V7Yxn1MDVWO9JgTZfwOWE5F_9scBpLUOCY/edit?usp=sharing)
 
-- ⚡ Fun fact I think Chess is the most interesting Game.
+- ⚡ Fun fact I like thinking a few steps ahead-both in code and in life.
 
 <h3  align="left">Connect with me:</h3>
 
