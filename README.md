@@ -1,47 +1,99 @@
-<h1  align="center">Hi 👋, I'm Aarti</h1>
+# Hi 👋, I'm Aarti
+ 
+<h3 align="middle">AI/LLM • Backend Engineer • Python & TypeScript</h3>
 
-<h3  align="center">A passionate Full Stack Web Developer from India</h3>
-
-<img  align="right"  alt=""  src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"  style="width:300px">
-
-- 🔭 I’m currently working as a SDE 1 at [Ravencast Labs](https://ravencast.io/).
-
-- 🌱 Currently learning and working on Python, AI, and LLM model training.
-
-- 🌱 Previously worked on the project : [Decentralized File Sharing System](#)
-
-- 👯 I’m looking to collaborate on Web based Projects
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://aarti-sushmesh.vercel.app/)
-
-- 💬 Ask me about Javascript , ReactJS , Node.js , C++ , DSA
-
-- 📫 How to reach me aartisushmesh@gmail.com
-
-- 📄 Know about my experiences -> [My Resume](https://docs.google.com/document/d/1X0EaHqa39V7Yxn1MDVWO9JgTZfwOWE5F_9scBpLUOCY/edit?usp=sharing)
-
-- ⚡ Fun fact I like thinking a few steps ahead-both in code and in life.
-
-<h3  align="left">Connect with me:</h3>
-
-<p  align="left">
-<a href="https://linkedin.com/in/aarti-sushmesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aartisushmesh" height="30" width="40" /></a>
-<a  href="https://www.codechef.com/users/aartii_sushh"  target="blank"><img  align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"  alt="aartisushmesh"  height="30"  width="40"  /></a>
-
-<a  href="https://www.hackerrank.com/profile/aartisush3"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  alt="aartisushmesh29"  height="30"  width="40"  /></a>
-
-<a  href="https://www.leetcode.com/aartisushmesh"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  alt="aartisushmesh"  height="30"  width="40"  /></a>
-
-</p>
-
-<h3  align="left">Languages and Tools:</h3>
-
-<p  align="left">  <a  href="https://www.w3schools.com/cpp/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  alt="cplusplus"  width="40"  height="40"/>  </a>  <a  href="https://www.w3schools.com/css/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  alt="css3"  width="40"  height="40"/>  </a>  <a  href="https://firebase.google.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"  alt="firebase"  width="40"  height="40"/>  </a>  <a  href="https://git-scm.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git"  width="40"  height="40"/>  </a>  <a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="40"  height="40"/>  </a>  <a  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/>  </a>  <a  href="https://www.mongodb.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  alt="mongodb"  width="40"  height="40"/>  </a>  <a  href="https://www.mysql.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  alt="mysql"  width="40"  height="40"/>  </a>  <a  href="https://nodejs.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs"  width="40"  height="40"/>  </a>  <a  href="https://www.postgresql.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"  alt="postgresql"  width="40"  height="40"/>  </a>  <a  href="https://reactjs.org/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  alt="react"  width="40"  height="40"/>  </a>  <a  href="https://redux.js.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  alt="redux"  width="40"  height="40"/>  </a>  <a  href="https://tailwindcss.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"  alt="tailwind"  width="40"  height="40"/>  </a>  <a  href="https://unity.com/"  target="_blank"  rel="noreferrer">  <img  src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"  alt="unity"  width="40"  height="40"/>  </a>  <a  href="https://getbootstrap.com"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap"  width="40"  height="40"/>  </a>  <a  href="https://www.cprogramming.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"  alt="c"  width="40"  height="40"/>  </a>  <a  href="https://expressjs.com"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"  alt="express"  width="40"  height="40"/>  </a>  </p>
-
-<p  align="center">
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aartisushmesh29&show_icons=true&locale=en&layout=compact"  alt="aartisushmesh"  />
-
-<img  src="https://leetcode.card.workers.dev/aartisushmesh?theme=dark&font=source_code_pro&extension=null"  alt="aartisushmesh"  />
-
-</p>
+# 💫 About Me:
+ 
+- 💼 Currently working as a **Junior Software Engineer** at **RavenCast Labs**
+- 💼 Previously worked at **Media Urbana** as a **Full Stack Web Development Intern**
+- 🔭 I'm currently working on **AI-powered conversational agents, LLM tool-calling workflows, and on-chain analytics systems**
+- 🚀 Passionate about **AI/LLM applications, backend architecture, and data-driven products**
+- 👯 I'm looking to collaborate on **AI agents, backend systems, and LLM-powered tools**
+- 🤝 I'm looking for help with **scaling production AI systems and backend performance optimization**
+- 🌱 I'm currently learning **advanced LLM orchestration and ML-based anomaly detection**
+- 💬 Ask me about **LLM tool calling, prompt engineering, FastAPI, and on-chain analytics**
+- 📫 Reach me at: **aartisushmesh@gmail.com**
+- 👨‍💻 Portfolio: [Portfolio URL]
+- 📄 Resume: [Resume URL]
+- ⚡ Fun fact: **I've analyzed hundreds of crypto wallets to spot profitable trading patterns!**
+- 🏆 Published review paper in IEEE Xplore at OTCON 4.0 (2025)
+---
+ 
+# 💼 Experience
+ 
+**RavenCast Labs | Junior Software Engineer** — (Jun 2025 – Present)
+- Built Agent Alfie, a Telegram-based Solana intelligence agent analyzing tokens, wallets, market trends, and on-chain metrics across 10+ market and wallet signals
+- Developed token-analysis and comparison workflows across 7+ key parameters (liquidity, holder activity, wallet performance, buying trends) enabling real-time comparative research
+- Engineered the backend AI workflow using OpenAI tool calling, orchestrating specialized data sources to improve response quality and reduce response time, while integrating sentiment scoring and ML-based anomaly detection
+- Analyzed 200 wallets across 6 months of trading activity to identify maker-only wallets with profitable copy-trading behavior, classifying ~30% as tradable candidates
+- Built a Telegram research chatbot enabling on-demand wallet analysis, trending-wallet discovery, and copy-trading insights
+**Media Urbana | Full Stack Web Development Intern** — (Sep 2024 – Oct 2024)
+- Developed and deployed full-stack web features using React.js, Node.js, Express.js, and MongoDB, implementing responsive interfaces, REST APIs, authentication, and database integration
+- Optimized database queries and real-time data handling, improving application responsiveness while supporting 1,000+ daily requests
+---
+ 
+# 💻 Tech Stack:
+ 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+ 
+**AI/ML:** OpenAI API · LLMs · Tool Calling · Prompt Engineering · Claude Code
+ 
+---
+ 
+# 🌐 Socials:
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([LinkedIn URL])
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aartisushmesh@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)]([LeetCode URL])
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)]([GitHub URL])
+ 
+---
+ 
+# 📌 Featured Projects
+ 
+**AdaptiveLearn** | Python, FastAPI, LLMs, PostgreSQL, Next.js, React
+ 
+An adaptive learning platform featuring interactive videos and LLM-generated quizzes mapped to transcripts. Automated personalized content recommendation pipelines analyzing user weak points and quiz histories, backed by a structured PostgreSQL system managing video content, assessments, user attempts, and mastery tracking.
+ 
+🔗 [GitHub](https://github.com/[username]/adaptivelearn)
+ 
+**AI Inventory Management System** | Python, FastAPI, PostgreSQL, Redis
+ 
+An inventory backend supporting stock management, concurrent order reservations, stock updates, low-stock alerts, and audit logging. Implemented database transactions, row-level locking, and event-driven workflows to prevent overselling and maintain inventory consistency during concurrent orders.
+ 
+🔗 [GitHub](https://github.com/[username]/ai-inventory-management)
+ 
+**Agent Alfie** | Python, TypeScript, OpenAI, LLMs, Telegram API, Solana Analytics
+ 
+A Telegram-based Solana intelligence agent analyzing tokens, wallets, market trends, trading activity, and on-chain metrics — delivering actionable insights through conversational queries across 10+ market and wallet signals.
+ 
+🔗 [GitHub](https://github.com/[username]/agent-alfie)
+ 
+---
+ 
+# 🏆 Achievements & Certifications
+ 
+- 📄 Published and presented the review paper "Decentralized File Sharing using Blockchain" at the 2025 4th OPJU International Technology Conference (OTCON 4.0); officially published in IEEE Xplore
+- 🎓 BTECH in Information Technology — JSS Academy of Technical Education (CGPA 8.1 / 81%)
+---
+ 
+# 📊 GitHub Stats:
+ 
+![](https://github-readme-stats.shion.dev/api?username=[username]&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+ 
+![](https://streak-stats.demolab.com/?user=[username]&theme=dark&hide_border=false)
+ 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=[username]&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
