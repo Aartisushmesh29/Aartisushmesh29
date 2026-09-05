@@ -55,11 +55,10 @@
  
 # 🌐 Socials:
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([LinkedIn URL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarti-sushmesh)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aartisushmesh@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)]([LeetCode URL])
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)]([GitHub URL])
- 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/aartisushmesh)
+
 ---
  
 # 📌 Featured Projects
@@ -68,25 +67,19 @@
  
 An adaptive learning platform featuring interactive videos and LLM-generated quizzes mapped to transcripts. Automated personalized content recommendation pipelines analyzing user weak points and quiz histories, backed by a structured PostgreSQL system managing video content, assessments, user attempts, and mastery tracking.
  
-🔗 [GitHub](https://github.com/[Aartisushmesh29]/adaptivelearn)
+🔗 [GitHub](https://github.com/Aartisushmesh29/adaptivelearn)
  
 **AI Inventory Management System** | Python, FastAPI, PostgreSQL, Redis
  
 An inventory backend supporting stock management, concurrent order reservations, stock updates, low-stock alerts, and audit logging. Implemented database transactions, row-level locking, and event-driven workflows to prevent overselling and maintain inventory consistency during concurrent orders.
  
-🔗 [GitHub](https://github.com/[Aartisushmesh29]/ai-inventory-management)
- 
-**Agent Alfie** | Python, TypeScript, OpenAI, LLMs, Telegram API, Solana Analytics
- 
-A Telegram-based Solana intelligence agent analyzing tokens, wallets, market trends, trading activity, and on-chain metrics — delivering actionable insights through conversational queries across 10+ market and wallet signals.
- 
-🔗 [GitHub](https://github.com/[Aartisushmesh29]/agent-alfie)
+🔗 [GitHub](https://github.com/Aartisushmesh29/AI-Inventory)
  
 ---
  
 # 🏆 Achievements & Certifications
  
-- 📄 Published and presented the review paper "Decentralized File Sharing using Blockchain" at the 2025 4th OPJU International Technology Conference (OTCON 4.0); officially published in IEEE Xplore
+- 📄 Published and presented the review paper "Decentralized File Sharing using Blockchain" at the 2025 4th OPJU International Technology Conference (OTCON 4.0); officially published in IEEE Xplore 🔗 [RESEARCH PAPER](https://ieeexplore.ieee.org/document/11070915), Publication [Certification](https://drive.google.com/file/d/1Hhk4CKRLbVfv5zBJZjxxya3aBnBk2pl3/view)
 - 🎓 BTECH in Information Technology — JSS Academy of Technical Education (CGPA 8.1 / 81%)
 ---
  
