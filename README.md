@@ -68,19 +68,19 @@
  
 An adaptive learning platform featuring interactive videos and LLM-generated quizzes mapped to transcripts. Automated personalized content recommendation pipelines analyzing user weak points and quiz histories, backed by a structured PostgreSQL system managing video content, assessments, user attempts, and mastery tracking.
  
-🔗 [GitHub](https://github.com/[username]/adaptivelearn)
+🔗 [GitHub](https://github.com/[Aartisushmesh29]/adaptivelearn)
  
 **AI Inventory Management System** | Python, FastAPI, PostgreSQL, Redis
  
 An inventory backend supporting stock management, concurrent order reservations, stock updates, low-stock alerts, and audit logging. Implemented database transactions, row-level locking, and event-driven workflows to prevent overselling and maintain inventory consistency during concurrent orders.
  
-🔗 [GitHub](https://github.com/[username]/ai-inventory-management)
+🔗 [GitHub](https://github.com/[Aartisushmesh29]/ai-inventory-management)
  
 **Agent Alfie** | Python, TypeScript, OpenAI, LLMs, Telegram API, Solana Analytics
  
 A Telegram-based Solana intelligence agent analyzing tokens, wallets, market trends, trading activity, and on-chain metrics — delivering actionable insights through conversational queries across 10+ market and wallet signals.
  
-🔗 [GitHub](https://github.com/[username]/agent-alfie)
+🔗 [GitHub](https://github.com/[Aartisushmesh29]/agent-alfie)
  
 ---
  
@@ -92,8 +92,8 @@ A Telegram-based Solana intelligence agent analyzing tokens, wallets, market tre
  
 # 📊 GitHub Stats:
  
-![](https://github-readme-stats.shion.dev/api?username=[username]&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Aartisushmesh29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
  
-![](https://streak-stats.demolab.com/?user=[username]&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=[Aartisushmesh29]&theme=dark&hide_border=false)
  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=[username]&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aartisushmesh29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
